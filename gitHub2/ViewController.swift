@@ -13,6 +13,10 @@ class ViewController: UIViewController {
     
     
     var name1 = "Sravya"
+    
+    
+    
+    var area="madhapur"
 
     override func viewDidLoad() {
         super.viewDidLoad()
